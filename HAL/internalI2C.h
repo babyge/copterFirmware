@@ -21,6 +21,7 @@
 
 #include "cpal_conf.h"
 #include "cpal_i2c.h"
+#include "cpal.h"
 #include "accelerometer.h"
 #include "gyro.h"
 #include "magnetometer.h"

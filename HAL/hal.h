@@ -6,6 +6,8 @@
 #ifndef HAL_H_
 #define HAL_H_
 
+#include "stm32f4xx.h"
+
 #include "internalI2C.h"
 #include "adc.h"
 #include "eeprom.h"
