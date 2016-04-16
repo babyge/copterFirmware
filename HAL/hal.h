@@ -20,5 +20,6 @@
 #include "buzzer.h"
 #include "FAT/ff.h"
 #include "log.h"
+#include "defines.h"
 
 #endif /* HAL_H_ */
