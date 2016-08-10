@@ -100,6 +100,7 @@ struct {
 	// [ 0 -1  0]
 	// [ 0  0  1]
 	float MagMatrix[3][3];
+	float AccGyroMatrix[3][3];
 } config;
 
 struct {
